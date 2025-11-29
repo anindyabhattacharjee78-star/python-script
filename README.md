@@ -1,0 +1,2 @@
+# python-script
+normal script
